@@ -1,0 +1,24 @@
+<div id="hero"></div>
+<!--div#hero>-->
+<div id="hero"></div>
+<!-- div.hero2> -->
+<div class="hero2"></div>
+<!--dic>h1{display title}-->
+<div>
+    <h1>display title</h1>
+</div>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi consequuntur beatae fugiat cupiditate aspernatur id.
+<h1 class="tieude">
+    <p><span>trangchu</span></p>
+</h1>
+<h1 class="tieude">
+    <p class="actived">Trangchu</p>
+</h1>
+<h1 class="tieude">
+    <p>sanpham1</p>
+    <p>sanpham2</p>
+    <p>sanpham3</p>
+    <p>sanpham4</p>
+    <p>sanpham5</p>
+</h1>
+h1>p.tieude{t=Tieu de}
